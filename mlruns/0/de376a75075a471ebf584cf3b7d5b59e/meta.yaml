@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/de376a75075a471ebf584cf3b7d5b59e/artifacts
+end_time: 1694641500311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de376a75075a471ebf584cf3b7d5b59e
+run_name: welcoming-conch-406
+run_uuid: de376a75075a471ebf584cf3b7d5b59e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694641497906
+status: 3
+tags: []
+user_id: udita

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/fe74eb0c01d24613b7b97930adc41041/artifacts
+end_time: 1694641456117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe74eb0c01d24613b7b97930adc41041
+run_name: likeable-slug-644
+run_uuid: fe74eb0c01d24613b7b97930adc41041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694641453734
+status: 3
+tags: []
+user_id: udita

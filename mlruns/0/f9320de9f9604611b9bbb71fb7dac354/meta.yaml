@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/f9320de9f9604611b9bbb71fb7dac354/artifacts
+end_time: 1694641088232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9320de9f9604611b9bbb71fb7dac354
+run_name: crawling-rat-564
+run_uuid: f9320de9f9604611b9bbb71fb7dac354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694641082704
+status: 3
+tags: []
+user_id: udita

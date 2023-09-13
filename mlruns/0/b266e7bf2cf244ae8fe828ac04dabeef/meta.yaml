@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/b266e7bf2cf244ae8fe828ac04dabeef/artifacts
+end_time: 1693961192690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b266e7bf2cf244ae8fe828ac04dabeef
+run_name: likeable-carp-555
+run_uuid: b266e7bf2cf244ae8fe828ac04dabeef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693961185651
+status: 3
+tags: []
+user_id: udita

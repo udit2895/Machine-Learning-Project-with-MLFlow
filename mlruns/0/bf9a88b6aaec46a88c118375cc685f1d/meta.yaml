@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/bf9a88b6aaec46a88c118375cc685f1d/artifacts
+end_time: 1693961882052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf9a88b6aaec46a88c118375cc685f1d
+run_name: casual-kite-830
+run_uuid: bf9a88b6aaec46a88c118375cc685f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693961873385
+status: 3
+tags: []
+user_id: udita

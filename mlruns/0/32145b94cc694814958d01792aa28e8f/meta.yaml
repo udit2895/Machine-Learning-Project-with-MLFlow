@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/32145b94cc694814958d01792aa28e8f/artifacts
+end_time: 1693960939496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32145b94cc694814958d01792aa28e8f
+run_name: bustling-sheep-85
+run_uuid: 32145b94cc694814958d01792aa28e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693960931633
+status: 3
+tags: []
+user_id: udita

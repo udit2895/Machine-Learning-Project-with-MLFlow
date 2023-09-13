@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/3598a16431d94c15809371b85f63b7ac/artifacts
+end_time: 1693962063983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3598a16431d94c15809371b85f63b7ac
+run_name: enchanting-gnat-19
+run_uuid: 3598a16431d94c15809371b85f63b7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693962055631
+status: 3
+tags: []
+user_id: udita

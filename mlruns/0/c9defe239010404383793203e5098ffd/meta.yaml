@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/udita/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Personal/UT%20Dallas/Project/Machine-Learning-Project-with-MLFlow/mlruns/0/c9defe239010404383793203e5098ffd/artifacts
+end_time: 1693967145795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9defe239010404383793203e5098ffd
+run_name: orderly-ape-513
+run_uuid: c9defe239010404383793203e5098ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693967134379
+status: 3
+tags: []
+user_id: udita
